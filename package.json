@@ -26,10 +26,10 @@
     "url": "https://github.com/bhoriuchi/bookshelf-factory/issues"
   },
   "dependencies": {
-    "knex": "^0.10.0",
+    "knex": "^0.12.5",
     "bluebird": "^2.10.2",
     "knex-schemer": "^0.1.16",
-    "bookshelf": "^0.9.1",
+    "bookshelf": "^0.10.2",
     "dotprune": "^0.1.5",
     "lodash": "^3.10.1",
     "moment": "^2.10.6",
