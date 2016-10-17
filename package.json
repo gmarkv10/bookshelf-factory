@@ -26,7 +26,7 @@
     "url": "https://github.com/bhoriuchi/bookshelf-factory/issues"
   },
   "dependencies": {
-    "knex": "^0.9.0",
+    "knex": "^0.10.0",
     "bluebird": "^2.10.2",
     "knex-schemer": "^0.1.16",
     "bookshelf": "^0.9.1",
